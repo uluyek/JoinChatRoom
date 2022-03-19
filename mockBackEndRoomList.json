@@ -1,0 +1,22 @@
+[{
+	"room id": "g_00001",
+	"Host": "user1",
+	"Member": ["user1", "user2", "user3"],
+	"Date": "Local Time",
+	"time": "none"
+},
+{
+    "room id": "g_03124",
+	"Host": "user2",
+	"Member": ["user2", "user3", "user4"],
+	"Date": "Local Time",
+	"time": "none"
+},
+{
+    "room id": "g_93781",
+	"Host": "user4",
+	"Member": ["user4", "user2", "user3"],
+	"Date": "Local Time",
+	"time": "none"
+}
+]
